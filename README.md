@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> Please see [csdms/bmi-examples-docker](https://github.com/csdms/bmi-examples-docker) for the latest version of the BMI Fortran example built with Docker.
+
 # bmi-example-fortran-docker
 
 The [Fortran example](https://github.com/csdms/bmi-example-fortran)
